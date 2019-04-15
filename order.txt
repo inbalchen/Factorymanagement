@@ -1,0 +1,10 @@
+101 white_cement 20 2000 Yaba rehovot 05278964512 13/12/2015Y Y
+102 white_cement 30 3000 popo ashdod 25478954450 14/12/2015N N
+103 white_cement 40 4000 lytal modin 47859612544 15/12/2015N N
+104 white_cement 17 1222 poupou kyryat_gat 12345689789 15/12/2015Y Y
+105 white_cement 9 900 gadi jerusalem 95195258555 16/12/2015Y Y
+106 white_cement 13 1300 yoni beer_sheva 82858474259 17/12/2015N N
+107 white_cement 5 200 oshrat sderot 45678998799 19/01/2016N N
+108 white_cement 45 10000 effi sderot 47899879875 04/05/2016N N
+109 white_cement 1 100 Ahmad gazza 22524524266 05/06/2016Y Y
+110 white_cement 66 6700 reuven jaffa 64564564588 06/10/2016Y Y
